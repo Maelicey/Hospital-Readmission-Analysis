@@ -11,6 +11,16 @@ The analysis was performed using SQL for data exploration and Tableau for dashbo
 - Tableau Desktop
 - GitHub
 
+# Skills Demonstrated
+- Data Cleaning
+- Data Analysis
+- SQL Queries
+- Data Visualization
+- Dashboard Development
+- Business Insights
+- Tableau
+- GitHub Documentation
+  
 # Dataset
 
 The dataset contains 8,000 hospital patient records, including:
