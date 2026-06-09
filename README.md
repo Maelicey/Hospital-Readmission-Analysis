@@ -37,4 +37,4 @@ Hospitals should provide stronger follow-up care and home-care support for high-
 
 # Dashboard
 
-![Hospital Readmission Dashboard](Hospital Readmission Dashboard.png)
+![Dashboard](Dashboard.png)
